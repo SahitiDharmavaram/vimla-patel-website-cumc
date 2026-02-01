@@ -1,0 +1,340 @@
+@charset "utf-8";
+/* CSS Document */
+.footerText {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #000000;
+	text-decoration: none;
+}
+.footerText:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #030303;
+	text-decoration: underline;
+}
+.headerForm {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #EAEAEA;
+	text-decoration: none;
+	background-color: #A05858;
+	border: 1px solid A05858;
+	padding-left: 4px;
+ 
+}
+.datestamp {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: 898989;
+	text-decoration: none;
+}
+.insideColumnHead {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: 660000;
+	text-decoration: none;
+	line-height: none;
+ 
+}
+ 
+.homeBlubText {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: 60605C;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+}
+.newsColumnHeader {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: 660000;
+	text-decoration: none;
+}
+.menuLocationRed {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	color: 660000;
+	text-decoration: none;
+ 
+}
+.menuLocationRed:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	color: 660000;
+	text-decoration: underline;
+}
+.insideTitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #000000;
+	text-decoration: none;
+}
+.insideMainBody {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: 686868;
+	text-decoration: none;
+}
+ 
+.text {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: 686868;
+	text-decoration: none;
+	
+	}
+.insideMainBody:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: 490000;
+	text-decoration: underline;
+}
+.insideMainBody:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: 660000;
+	text-decoration: none;
+}
+.generalForms {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	color: #686868;
+	border: 1px solid #333333;
+}
+.newsTitle {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 25px;
+	font-weight: bold;
+	color: #000000;
+}
+.insideTitleBlack {
+ 
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #000000;
+	text-decoration: none;
+}
+.bioheader {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #660000;
+	text-decoration: none;
+}
+.bioname {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #660000;
+	text-decoration: none;
+}
+.biosubtitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #4D4D4D;
+	text-decoration: none;
+}
+.rightColumnHead {
+	font-family: Arial, Verdana, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: 660000;
+	text-decoration: none;
+	filter: DropShadow(Color=#E9E9D1, OffX=1, OffY=1, Positive=1);
+}
+.textBlack {
+ 
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: 000000;
+	text-decoration: none;
+}
+ 
+.infonav {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #000;
+	text-decoration: none;
+	
+}
+ 
+.calendarHeader {
+		font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: 1.5em;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #000000;
+	text-decoration: none;
+	}
+
+.calendar {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: 1.5em;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #000000;
+	text-decoration: none;
+}
+ 
+p {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: 686868;
+	text-decoration: none;
+}
+.additional {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: 660000;
+	text-decoration: none;
+	filter: DropShadow(Color=#E9E9D1, OffX=1, OffY=1, Positive=1);
+}
+ 
+.deptTitle {
+	font-family: Arial, Verdana, sans-serif;
+	font-size: 13px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: 660000;
+	text-decoration: none;
+	filter: DropShadow(Color=#E9E9D1, OffX=1, OffY=1, Positive=1);
+}.insideColumnWHITE {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #FFFFFF;
+	text-decoration: none;
+	line-height: none;
+}
+.large {
+	font-size:24pt;
+	color:#999999;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	padding:10px 0 10px 10px;
+	font-weight: bold;
+}
+#custom-logo-left {
+    height: 145px;
+    width: 370px;
+}
+
+#custom-logo-right {
+    width: 370px;
+}
+
+#custom-logo-m {
+    background: white;
+}
+
